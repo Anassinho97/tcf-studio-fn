@@ -1,0 +1,15 @@
+{
+  "based_on": "TCF_Studio_V3_601_Questions_36_Cours_Complets.html",
+  "questions": 601,
+  "courses": 36,
+  "levels": {
+    "A1": 41,
+    "A2": 38,
+    "B1": 121,
+    "B2": 150,
+    "C1": 133,
+    "C2": 118
+  },
+  "date": "2026-11-19",
+  "scope": "Github Pages / repository-relative"
+}
